@@ -12,3 +12,18 @@ module string_to_int;
     $display("%s",str);
   end
 endmodule
+
+
+module string_to_int;
+  int num;
+  string str;
+  
+  initial begin
+    str = "12345";
+    
+    num = str.atoi();
+    
+    $display("%0d",num);
+    $display("%s",str);
+  end
+endmodule
