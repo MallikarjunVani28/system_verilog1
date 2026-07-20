@@ -1,3 +1,4 @@
+//Sort the contents of a dynamic array which contains 10 elements in it.
 module sort_dyn_using_array_method;
   int arr[];
   initial begin
