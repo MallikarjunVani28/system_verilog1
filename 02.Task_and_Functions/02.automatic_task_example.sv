@@ -1,7 +1,7 @@
 module automatic_task_example;
- 
+ // integer i; this will become static in nature soo separate memory will be allocated
   task automatic increment();
-    integer i =0;
+    integer i =0;//dynamic in nature
     i = i+1;
      $display("the value of i after second increment is %0d",i);
     
