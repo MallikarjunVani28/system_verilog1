@@ -5,7 +5,7 @@ class example;
   
   constraint div{ foreach(a[i])
   a[i] % 2 == 0;}
-  //a[i] %2 == 1;} for even numbers
+  //a[i] %2 == 1;} for odd numbers
 
 constraint range{foreach(a[i])
  a[i] inside {[1:100]};}
