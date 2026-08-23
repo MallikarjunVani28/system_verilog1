@@ -30,5 +30,6 @@ module tb;
     s2.marks = 89;
     
     $display("s1 = %p and s2 = %p",s1,s2);
+  end
   
 endmodule
