@@ -1,4 +1,4 @@
-// write a snippet of code to randomize an 8-bit dynamic array with the following 
+/*write a snippet of code to randomize an 8-bit dynamic array with the following 
 constraints.                                                                                            
  
 • The size of an array should be in between 10 to 20. 
