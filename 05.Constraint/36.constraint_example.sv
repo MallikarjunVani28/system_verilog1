@@ -8,6 +8,7 @@ bit value = 0;
 
 while(i>=j+count)begin
 j = j+count;
+  if(value==0)
 count++;
 value = ~value;
 end
