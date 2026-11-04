@@ -1,4 +1,4 @@
-/*write a code to generate the random dynamic array and also find the element greater then 30 and print them
+/*write a code to generate the random dynamic array and also find the element greater then 30 and print them*/
 
 module tb;
 int a[],q[$];
